@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on whatever project contrat me ;b
 - 📫 How to reach me @isaiwalle in ig or isaiwalle@gmail.com
 
- My Skills
+ My Skills: 
 dev front-end and back-end, 
 HTML5, 
 css, 
