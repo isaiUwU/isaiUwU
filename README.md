@@ -5,3 +5,20 @@
 - 💞️ I’m looking to collaborate on whatever project contrat me ;b
 - 📫 How to reach me @isaiwalle in ig or isaiwalle@gmail.com
 
+ My Skills
+dev front-end and back-end, 
+HTML5, 
+css, 
+javascript, 
+bootstrap 4 y 5, 
+web desing, 
+angular,
+DOM Manipulation, 
+node.js, 
+express.js,
+git, 
+github and version control, 
+Ejs, 
+Databases, 
+MySQL, 
+MongoDB
